@@ -1,0 +1,43 @@
+.wrapper {
+    width: 50%;
+    max-width: none;
+}
+
+section>h2 {
+    font-size: 2em
+}
+
+section {
+    clear: left;
+    padding-top: 5vh;
+}
+
+section .links {
+    float: left;
+    max-width: 30%;
+
+    margin-right: 2vw;
+
+    text-align: center;
+}
+
+section .links img {
+    margin-bottom: 0.5vw;
+    border-radius: 100%;
+}
+
+section .links i{
+    margin: 0.3vw;
+
+    font-size: 2em;
+    color: #328CC1;
+}
+
+section .links legend p {
+    color: gray;
+}
+
+section .description {
+    text-align: justify;
+    font-size: 1.2em;
+}

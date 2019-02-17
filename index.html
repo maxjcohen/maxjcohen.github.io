@@ -1,7 +1,22 @@
 ---
 layout: home
 ---
+<section id="about">
+  <h2>About me</h2>
+  <div class="links">
+      <img src="https://avatars1.githubusercontent.com/u/28339661?s=400&v=4" alt="">
+      <legend>
+          <h2>Max Cohen</h2>
+          <p>Engineer in Deep learning and Computer Vision</p>
+          <p>Telecom SudParis</p>
+      </legend>
+      <a href="https://github.com/maxjcohen"><i class="fab fa-github"></i></a>
+      <a href="mailto:max.cohen@gmx.com?subject=feedback"><i class="far fa-envelope"></i></a>
+      <i class="far fa-file-alt"></i>
+  </div>
 
-{% for repository in site.github.public_repositories %}
-  * [{{ repository.name }}]({{ repository.html_url }})
-{% endfor %}
+  <div class="description">
+      <p>Engineer specialized in Statistics, Deep learning and Computer vision from Telecom SudParis of the Institut Polytechnique de Paris. Experienced with several programming languages for both research and production. Research interests include Capsule Networks, visual search engines and video summarisation methods.</p>
+      <p>Co-founder of <a href="http://deepnet.fr">deepnet</a>, an association which aims at solving real life problems by using artificial intelligence. We are helping students skill up in the filed of AI, connect them with like minded individuals, and deploy solutions to social and economic issues.</p>
+  </div>
+</section>
