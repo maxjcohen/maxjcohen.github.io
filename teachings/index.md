@@ -9,7 +9,9 @@ layout: page
 3. [Slides Marc](https://docs.google.com/presentation/d/1cqS96lotisOFgdVVRULKYN28ci-VsgviKCqNwykxEjc/edit?usp=sharing)
 
 ## Challenges: mnist on kaggle
-1. [Kaggle](https://www.kaggle.com/c/digit-recognizer)
-2. [Notebook](https://colab.research.google.com/drive/1FCEtx2e3hLIHpxiBaUql4MKa06zqkm6Q)
-3. [Relevant doc](https://keras.io/getting-started/sequential-model-guide/)
+- [Kaggle](https://www.kaggle.com/c/digit-recognizer)
+- [Notebook](https://colab.research.google.com/drive/1FCEtx2e3hLIHpxiBaUql4MKa06zqkm6Q)
+- [Relevant doc](https://keras.io/getting-started/sequential-model-guide/)
 
+## Links
+- [pyimagesearch](https://www.pyimagesearch.com/)
